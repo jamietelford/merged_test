@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2EAB-8B5E
+
+ Directory of C:\repo\merged_test
+
+09/05/2017  10:24 AM    <DIR>          .
+09/05/2017  10:24 AM    <DIR>          ..
+09/05/2017  10:12 AM                65 .gitattributes
+09/05/2017  10:24 AM                 0 deleteme.txt
+               2 File(s)             65 bytes
+               2 Dir(s)  49,260,257,280 bytes free
